@@ -1,0 +1,1001 @@
+ID,Name,Age,Gender,Salary,Joining Date,Comments,Is Active_0,Is Active_1
+1,Linda,24,0,87372.0,2021-03-21,Team Player,False,True
+2,Sara,40,1,68565.37,2018-05-20,Fast Learner,False,True
+3,Sara,43,1,100076.38,2023-12-03,Fast Learner,True,False
+4,Rachel,42,0,43901.7,2016-11-14,Creative,True,False
+5,Rachel,44,0,76021.57,2018-09-13,Team Player,True,False
+6,Eve,50,0,99939.68,2024-11-01,Fast Learner,False,True
+7,Tom,50,1,102299.24,2016-09-08,Fast Learner,True,False
+8,Eve,37,1,51058.17,2023-01-13,Reliable,True,False
+9,Eve,26,0,52352.11,2024-10-07,Creative,False,True
+10,John,35,0,113214.11,2018-08-14,Hardworking,False,True
+11,Sara,39,1,44316.34,2019-07-20,Team Player,False,True
+12,Steve,49,0,75573.42,2021-06-21,Needs Improvement,False,True
+13,Tom,35,0,74563.91,2021-06-21,Needs Improvement,False,True
+14,John,36,1,81462.42,2016-09-15,Team Player,False,True
+15,Paul,27,1,41286.76,2022-02-17,Reliable,True,False
+16,Sara,49,0,67688.77,2018-11-26,Dedicated,False,True
+17,Paul,57,0,54320.35,2015-03-06,Hardworking,True,False
+18,John,55,1,107396.3,2023-03-25,Reliable,False,True
+19,Steve,31,0,59505.12,2017-04-22,Needs Improvement,True,False
+20,Sara,45,1,69101.63,2024-02-25,Team Player,False,True
+21,Sara,54,1,80775.63,2023-03-27,Hardworking,True,False
+22,Alice,53,0,48408.3,2016-11-14,Needs Improvement,True,False
+23,Linda,60,1,107121.78,2020-08-29,Dedicated,True,False
+24,Paul,32,1,69641.68,2015-08-25,Hardworking,True,False
+25,Tom,46,0,76605.23,2024-08-31,Dedicated,False,True
+26,Steve,32,1,75301.31,2019-02-03,Fast Learner,True,False
+27,Linda,44,1,96336.0,2017-10-16,Team Player,False,True
+28,John,33,1,101741.93,2017-07-06,Reliable,False,True
+29,Eve,23,1,104810.55,2023-12-30,Team Player,True,False
+30,Steve,44,1,30797.91,2023-01-11,Needs Improvement,False,True
+31,Eve,45,0,49724.49,2024-11-14,Dedicated,False,True
+32,Paul,43,0,48364.66,2017-11-30,Hardworking,True,False
+33,Tom,44,1,41854.4,2021-02-06,Hardworking,True,False
+34,Sara,34,1,104543.65,2016-12-28,Hardworking,False,True
+35,Tom,54,0,100731.24,2023-10-02,Team Player,False,True
+36,Tom,48,1,119916.34,2020-07-09,Creative,False,True
+37,Sara,46,0,35564.87,2022-06-19,Team Player,True,False
+38,Linda,23,1,105891.36,2015-05-10,Reliable,True,False
+39,John,53,1,118420.81,2019-01-02,Dedicated,True,False
+40,Rachel,38,0,52912.36,2016-08-02,Fast Learner,False,True
+41,Steve,44,0,62697.21,2020-01-26,Fast Learner,True,False
+42,Sara,29,1,109918.99,2019-02-06,Reliable,False,True
+43,Bob,50,0,56080.92,2021-09-14,Creative,True,False
+44,John,54,0,98202.48,2016-02-03,Creative,False,True
+45,Steve,57,0,67724.61,2021-04-17,Reliable,True,False
+46,John,46,1,43008.55,2024-05-26,Dedicated,False,True
+47,Bob,23,0,60024.51,2019-03-03,Needs Improvement,False,True
+48,Steve,53,1,51429.2,2020-08-11,Needs Improvement,True,False
+49,Alice,24,0,106057.16,2024-10-05,Dedicated,False,True
+50,Rachel,27,0,94309.28,2021-09-23,Fast Learner,False,True
+51,Linda,51,1,30093.55,2018-07-12,Reliable,True,False
+52,John,53,1,115263.13,2022-03-14,Team Player,True,False
+53,Alice,55,0,111204.01,2020-06-06,Fast Learner,False,True
+54,Eve,46,0,59082.41,2018-10-23,Needs Improvement,False,True
+55,Paul,50,1,38783.26,2021-09-16,Needs Improvement,True,False
+56,Steve,50,1,95317.6,2015-12-22,Creative,True,False
+57,Eve,42,1,86537.47,2022-10-31,Needs Improvement,False,True
+58,Eve,53,0,80352.89,2019-03-09,Dedicated,False,True
+59,Bob,26,0,73451.98,2015-09-18,Creative,False,True
+60,Tom,40,1,75186.89,2015-02-25,Creative,True,False
+61,Tom,57,0,42140.06,2016-10-01,Fast Learner,True,False
+62,Paul,26,0,39428.52,2024-11-28,Dedicated,True,False
+63,Sara,60,0,72505.31,2019-10-23,Fast Learner,True,False
+64,Sara,58,0,80360.25,2024-05-30,Dedicated,False,True
+65,Steve,26,1,69052.46,2024-11-06,Creative,True,False
+66,Bob,36,1,117642.67,2019-12-08,Team Player,True,False
+67,Sara,30,1,92568.28,2021-10-01,Creative,False,True
+68,Sara,33,0,44026.07,2020-10-12,Needs Improvement,True,False
+69,Sara,56,1,41702.52,2020-05-03,Creative,True,False
+70,Sara,32,1,101236.2,2015-11-24,Reliable,False,True
+71,Bob,58,1,93216.71,2024-11-04,Dedicated,False,True
+72,Paul,27,0,95142.81,2020-11-03,Hardworking,True,False
+73,Tom,53,1,79599.78,2020-05-26,Needs Improvement,True,False
+74,Paul,54,0,45222.35,2024-02-17,Needs Improvement,True,False
+75,Sara,22,1,118325.19,2019-07-14,Needs Improvement,False,True
+76,Steve,54,1,59843.99,2023-10-08,Needs Improvement,True,False
+77,Steve,60,1,113040.35,2018-12-08,Fast Learner,False,True
+78,Steve,45,1,53618.85,2024-02-11,Team Player,False,True
+79,Linda,38,1,108310.28,2022-12-27,Team Player,True,False
+80,Bob,57,0,89402.83,2022-06-06,Dedicated,True,False
+81,John,36,1,45687.03,2023-07-14,Hardworking,False,True
+82,John,57,0,103854.2,2017-12-13,Fast Learner,False,True
+83,Sara,54,1,104790.2,2016-08-01,Hardworking,False,True
+84,Tom,50,0,51494.73,2015-07-25,Fast Learner,False,True
+85,Sara,22,0,89090.02,2022-07-25,Team Player,True,False
+86,Alice,55,0,98597.72,2021-05-05,Hardworking,False,True
+87,John,46,1,49832.99,2023-12-15,Fast Learner,True,False
+88,Sara,43,1,89812.5,2020-11-24,Hardworking,True,False
+89,Paul,45,0,61916.05,2023-04-21,Hardworking,False,True
+90,John,40,1,113828.24,2019-08-05,Fast Learner,True,False
+91,Bob,34,1,49574.5,2019-10-11,Needs Improvement,True,False
+92,Eve,51,0,76251.12,2016-09-01,Hardworking,True,False
+93,Steve,55,0,111208.04,2016-01-11,Reliable,False,True
+94,Tom,51,1,38867.07,2022-10-09,Hardworking,False,True
+95,Linda,23,0,46600.21,2015-12-20,Creative,False,True
+96,Sara,36,0,68171.35,2024-10-07,Dedicated,False,True
+97,Tom,57,1,79058.39,2022-01-20,Creative,False,True
+98,Rachel,58,1,80999.76,2015-08-05,Fast Learner,False,True
+99,Paul,25,0,72463.62,2021-04-12,Needs Improvement,False,True
+100,Alice,27,0,71775.36,2016-05-24,Dedicated,False,True
+101,Rachel,43,1,109413.11,2019-06-20,Reliable,False,True
+102,Linda,47,0,40298.07,2015-11-03,Team Player,False,True
+103,Sara,25,0,112586.34,2024-02-01,Dedicated,True,False
+104,Linda,43,0,116060.14,2023-08-24,Dedicated,True,False
+105,John,33,1,113267.96,2017-06-21,Team Player,False,True
+106,Rachel,33,1,48630.28,2024-05-17,Reliable,False,True
+107,Bob,47,1,31105.93,2018-07-21,Hardworking,True,False
+108,Rachel,40,1,113072.8,2018-07-14,Hardworking,True,False
+109,Rachel,47,1,79010.15,2022-02-18,Creative,False,True
+110,Steve,31,1,99461.75,2018-04-21,Team Player,True,False
+111,John,50,1,55147.0,2024-07-13,Dedicated,True,False
+112,Linda,60,1,50904.89,2021-08-29,Hardworking,False,True
+113,Alice,57,0,56304.52,2024-03-11,Hardworking,False,True
+114,Rachel,38,1,70154.02,2016-12-12,Dedicated,False,True
+115,Sara,40,0,80824.01,2023-12-09,Creative,True,False
+116,Alice,41,1,49582.8,2020-08-31,Dedicated,True,False
+117,Tom,57,0,105368.49,2015-01-04,Dedicated,True,False
+118,Alice,25,0,107072.49,2016-04-14,Fast Learner,False,True
+119,Bob,36,1,71784.75,2020-08-09,Reliable,False,True
+120,Rachel,24,1,81735.52,2015-10-04,Fast Learner,False,True
+121,Eve,44,1,72539.13,2024-02-18,Creative,True,False
+122,Linda,60,0,31029.34,2017-11-17,Fast Learner,True,False
+123,John,50,0,110302.43,2021-08-25,Dedicated,False,True
+124,Sara,48,0,61441.48,2023-10-14,Fast Learner,True,False
+125,Bob,34,0,35092.61,2020-11-06,Creative,True,False
+126,John,37,0,77555.02,2018-08-11,Dedicated,True,False
+127,Steve,51,1,89307.63,2021-01-21,Hardworking,True,False
+128,John,47,0,105057.96,2023-06-11,Fast Learner,True,False
+129,Linda,47,0,119038.07,2022-02-12,Needs Improvement,True,False
+130,Sara,35,1,85978.55,2017-06-21,Hardworking,False,True
+131,Rachel,46,1,46192.16,2017-12-06,Team Player,True,False
+132,Linda,34,0,38431.12,2017-02-09,Needs Improvement,False,True
+133,Linda,60,0,39223.36,2022-03-10,Needs Improvement,False,True
+134,Alice,57,0,77616.28,2016-11-30,Fast Learner,False,True
+135,Rachel,34,1,49573.27,2023-01-17,Fast Learner,False,True
+136,Bob,51,0,92490.8,2019-02-03,Reliable,True,False
+137,Sara,38,1,30259.1,2016-01-24,Dedicated,True,False
+138,Alice,58,1,105086.97,2023-10-12,Reliable,False,True
+139,Alice,29,0,61458.39,2016-03-19,Creative,False,True
+140,Tom,26,1,104887.59,2022-10-10,Needs Improvement,False,True
+141,John,47,0,93829.06,2020-07-05,Hardworking,False,True
+142,Eve,23,0,42866.52,2023-12-27,Fast Learner,True,False
+143,Eve,37,1,40945.21,2023-02-13,Creative,False,True
+144,Steve,52,0,44430.47,2018-06-28,Dedicated,True,False
+145,Rachel,48,0,110659.33,2017-06-23,Needs Improvement,False,True
+146,Sara,24,0,114562.24,2018-07-20,Team Player,False,True
+147,Sara,53,0,90921.2,2023-04-15,Reliable,True,False
+148,Bob,24,0,53386.26,2024-10-02,Needs Improvement,True,False
+149,Tom,41,0,43375.12,2017-06-09,Team Player,False,True
+150,Sara,41,0,78774.9,2023-02-14,Reliable,True,False
+151,John,33,0,71191.94,2020-12-26,Hardworking,True,False
+152,Linda,49,0,62905.29,2024-01-14,Team Player,True,False
+153,Rachel,29,1,52031.01,2019-10-14,Creative,False,True
+154,Sara,49,0,35854.5,2021-11-09,Fast Learner,False,True
+155,Bob,31,1,63298.88,2016-08-09,Creative,False,True
+156,Sara,52,0,114787.19,2024-06-21,Fast Learner,True,False
+157,Linda,48,0,64370.95,2022-09-18,Dedicated,True,False
+158,Steve,36,0,84947.89,2019-04-05,Fast Learner,True,False
+159,John,45,1,49340.67,2024-05-22,Creative,False,True
+160,Eve,35,0,55630.28,2015-08-13,Hardworking,True,False
+161,John,48,1,115325.93,2015-09-19,Reliable,True,False
+162,Rachel,37,0,78481.62,2015-12-02,Creative,False,True
+163,Tom,25,0,117878.01,2020-10-30,Team Player,True,False
+164,Sara,53,1,87182.75,2017-12-26,Reliable,True,False
+165,Paul,24,0,106587.03,2016-04-02,Reliable,True,False
+166,John,25,1,111686.19,2016-11-09,Hardworking,True,False
+167,Linda,54,0,86617.66,2021-08-17,Creative,True,False
+168,Alice,49,0,111098.87,2017-06-01,Needs Improvement,True,False
+169,Steve,38,1,35595.97,2020-09-15,Creative,True,False
+170,Steve,43,1,46942.77,2019-01-04,Dedicated,False,True
+171,Linda,31,1,66002.03,2021-12-01,Team Player,True,False
+172,Sara,52,1,49062.83,2022-08-08,Creative,True,False
+173,Bob,37,0,75100.54,2023-12-13,Dedicated,False,True
+174,John,42,0,87761.86,2018-08-31,Fast Learner,True,False
+175,Sara,46,0,81642.11,2022-10-25,Dedicated,False,True
+176,John,32,1,115266.01,2022-12-31,Fast Learner,True,False
+177,Tom,58,0,119316.96,2024-07-28,Fast Learner,True,False
+178,Rachel,46,0,38064.5,2022-01-08,Needs Improvement,False,True
+179,Eve,28,0,61769.92,2021-11-10,Dedicated,False,True
+180,Alice,55,0,114897.72,2017-10-18,Needs Improvement,False,True
+181,Paul,41,0,44643.3,2021-07-11,Fast Learner,True,False
+182,Eve,35,0,74526.84,2018-05-09,Fast Learner,True,False
+183,Rachel,30,1,83783.44,2016-11-16,Team Player,True,False
+184,Alice,51,1,80985.64,2020-03-20,Creative,True,False
+185,Eve,36,0,104883.36,2016-06-16,Fast Learner,False,True
+186,Rachel,37,1,84958.24,2020-01-31,Creative,False,True
+187,John,28,1,86995.22,2022-06-15,Dedicated,False,True
+188,John,51,0,69960.2,2016-08-14,Reliable,True,False
+189,Alice,30,0,53325.85,2023-05-19,Creative,True,False
+190,Rachel,36,1,67312.12,2015-06-06,Dedicated,True,False
+191,Alice,56,0,73184.54,2020-10-22,Reliable,False,True
+192,Alice,32,1,77505.98,2019-01-09,Needs Improvement,True,False
+193,John,24,0,33737.6,2024-08-26,Dedicated,True,False
+194,Rachel,27,1,93316.43,2015-07-03,Hardworking,True,False
+195,Bob,55,0,48486.41,2016-04-30,Reliable,False,True
+196,Eve,48,0,97953.22,2017-03-14,Fast Learner,False,True
+197,John,41,1,113289.93,2019-07-10,Dedicated,False,True
+198,Steve,34,0,111192.09,2023-08-29,Needs Improvement,False,True
+199,Paul,48,0,89025.49,2021-04-21,Creative,False,True
+200,Linda,36,1,59111.21,2021-02-05,Fast Learner,True,False
+201,Tom,23,1,94711.78,2020-01-13,Fast Learner,False,True
+202,Linda,24,1,85129.57,2016-12-04,Fast Learner,False,True
+203,Steve,51,1,57996.13,2022-03-18,Fast Learner,False,True
+204,Steve,28,1,115149.45,2024-01-10,Reliable,True,False
+205,Bob,53,0,84487.84,2021-05-01,Hardworking,False,True
+206,Bob,41,1,52888.8,2015-11-07,Fast Learner,True,False
+207,Bob,42,0,78532.29,2015-04-22,Fast Learner,False,True
+208,Tom,23,0,47472.74,2023-11-12,Team Player,False,True
+209,Rachel,25,1,34664.6,2019-11-20,Creative,False,True
+210,Sara,32,1,69977.87,2016-08-02,Team Player,True,False
+211,Eve,33,1,58988.8,2017-01-04,Dedicated,True,False
+212,Bob,37,1,91419.05,2024-05-08,Team Player,False,True
+213,Rachel,43,0,47428.82,2016-07-21,Team Player,True,False
+214,Bob,53,1,46112.93,2016-03-19,Dedicated,False,True
+215,Paul,34,0,115875.18,2018-07-09,Team Player,True,False
+216,Rachel,30,1,78016.4,2015-06-16,Needs Improvement,False,True
+217,Bob,44,0,85839.91,2024-03-12,Reliable,False,True
+218,Steve,49,0,95421.31,2016-12-20,Reliable,True,False
+219,Rachel,47,1,45827.92,2020-02-04,Dedicated,False,True
+220,Linda,29,1,84761.76,2021-02-18,Fast Learner,True,False
+221,Eve,56,1,65637.49,2021-08-10,Hardworking,False,True
+222,Paul,52,1,83706.01,2017-03-21,Hardworking,True,False
+223,Bob,26,0,68461.77,2023-12-11,Fast Learner,True,False
+224,Eve,41,0,80341.35,2022-02-05,Dedicated,False,True
+225,Rachel,58,1,104571.33,2022-10-29,Reliable,True,False
+226,John,33,1,32007.49,2015-09-07,Hardworking,True,False
+227,John,53,0,70386.1,2020-05-13,Dedicated,True,False
+228,Bob,53,0,110127.16,2024-07-15,Reliable,False,True
+229,Eve,52,1,64687.51,2020-08-05,Team Player,True,False
+230,Eve,34,1,113469.72,2020-04-17,Needs Improvement,False,True
+231,Eve,33,1,82657.74,2018-03-09,Hardworking,True,False
+232,Tom,24,1,31532.79,2024-08-18,Dedicated,True,False
+233,Eve,48,0,34855.0,2018-12-15,Creative,True,False
+234,Bob,58,0,67078.34,2018-07-27,Needs Improvement,False,True
+235,Tom,46,0,58920.16,2016-01-16,Creative,True,False
+236,Bob,60,0,107177.84,2016-10-21,Team Player,False,True
+237,John,41,1,40949.36,2019-05-03,Creative,False,True
+238,Tom,42,0,38671.1,2021-02-13,Dedicated,False,True
+239,Bob,25,1,110581.67,2019-06-23,Needs Improvement,True,False
+240,Alice,57,0,102326.61,2021-06-23,Fast Learner,True,False
+241,Alice,32,1,41353.74,2023-05-03,Team Player,False,True
+242,Bob,22,0,80796.98,2020-08-10,Team Player,True,False
+243,Rachel,31,1,85743.44,2020-09-24,Dedicated,False,True
+244,Paul,43,1,49125.09,2019-10-19,Fast Learner,False,True
+245,Eve,34,0,30179.85,2024-03-31,Reliable,True,False
+246,Bob,45,1,87852.39,2021-09-17,Hardworking,False,True
+247,Bob,28,0,83417.06,2016-06-15,Needs Improvement,True,False
+248,Tom,58,0,69972.07,2015-07-17,Needs Improvement,True,False
+249,Linda,45,0,102340.3,2020-04-29,Dedicated,False,True
+250,Rachel,51,1,74627.99,2021-07-30,Needs Improvement,False,True
+251,Alice,47,0,31179.24,2019-06-21,Hardworking,False,True
+252,Alice,42,1,85372.31,2024-09-01,Creative,True,False
+253,Paul,34,1,66242.23,2019-02-03,Needs Improvement,False,True
+254,Bob,38,1,58365.75,2024-07-29,Fast Learner,True,False
+255,Linda,60,1,80210.84,2016-02-26,Fast Learner,False,True
+256,Linda,58,0,31485.06,2020-08-08,Dedicated,False,True
+257,Rachel,52,0,33724.68,2018-12-07,Fast Learner,False,True
+258,Eve,52,1,106499.76,2017-02-06,Dedicated,True,False
+259,Alice,46,0,55588.49,2015-02-01,Hardworking,True,False
+260,Steve,56,1,92614.47,2016-01-19,Creative,False,True
+261,Bob,29,0,109797.54,2023-11-25,Dedicated,True,False
+262,John,24,1,36364.58,2018-08-09,Hardworking,True,False
+263,Steve,58,0,70990.81,2018-12-06,Dedicated,True,False
+264,Steve,36,0,45020.49,2020-10-06,Dedicated,True,False
+265,Tom,36,0,83057.67,2021-09-28,Creative,True,False
+266,Linda,35,1,68253.51,2017-06-24,Creative,True,False
+267,Rachel,35,1,54736.92,2019-10-23,Team Player,True,False
+268,Tom,47,0,42218.29,2021-01-16,Hardworking,False,True
+269,Paul,29,1,43761.5,2024-10-06,Reliable,False,True
+270,Eve,44,0,119136.37,2019-04-13,Creative,True,False
+271,Sara,56,0,41719.28,2016-07-15,Team Player,True,False
+272,Rachel,43,0,68614.98,2023-06-29,Reliable,True,False
+273,Linda,59,1,32624.13,2017-09-24,Needs Improvement,False,True
+274,Eve,48,0,81258.18,2015-01-28,Needs Improvement,True,False
+275,Tom,37,0,52140.32,2020-11-05,Team Player,False,True
+276,John,58,0,59756.3,2024-02-13,Team Player,True,False
+277,Steve,40,1,84664.27,2021-08-09,Fast Learner,False,True
+278,Rachel,60,1,99974.26,2023-07-23,Fast Learner,False,True
+279,Paul,31,0,86497.68,2023-11-25,Hardworking,False,True
+280,Tom,38,1,63384.28,2018-11-28,Dedicated,True,False
+281,Steve,51,1,34638.57,2022-04-07,Creative,True,False
+282,Tom,36,0,85004.78,2015-01-06,Needs Improvement,False,True
+283,Bob,51,0,58073.46,2016-07-21,Fast Learner,True,False
+284,Alice,50,0,115173.89,2021-10-13,Team Player,True,False
+285,Alice,60,1,50355.9,2017-01-01,Reliable,False,True
+286,Alice,36,1,37379.77,2018-01-15,Team Player,True,False
+287,Eve,53,1,48614.78,2023-01-18,Fast Learner,False,True
+288,Linda,45,1,117173.12,2019-02-15,Reliable,False,True
+289,Linda,49,0,39343.92,2018-11-16,Dedicated,True,False
+290,Tom,40,1,97806.29,2023-05-16,Dedicated,True,False
+291,Steve,47,1,31523.89,2017-01-19,Reliable,False,True
+292,Bob,47,0,110432.2,2022-06-08,Hardworking,True,False
+293,John,31,0,100624.12,2023-12-22,Team Player,False,True
+294,Sara,38,0,108943.28,2021-02-12,Team Player,False,True
+295,Bob,33,1,57380.45,2017-11-28,Needs Improvement,True,False
+296,John,35,1,47964.86,2016-01-12,Hardworking,False,True
+297,Paul,50,0,102272.58,2019-10-29,Needs Improvement,False,True
+298,Eve,47,0,56068.35,2015-08-02,Dedicated,False,True
+299,Alice,33,0,88994.28,2021-10-29,Hardworking,False,True
+300,Sara,37,0,86041.43,2015-04-25,Fast Learner,True,False
+301,John,39,1,35020.85,2022-06-25,Needs Improvement,True,False
+302,John,50,0,96652.12,2023-10-07,Fast Learner,True,False
+303,Eve,49,1,31217.59,2016-12-15,Creative,False,True
+304,John,35,0,47361.3,2022-08-02,Team Player,False,True
+305,Paul,24,1,108494.65,2016-04-15,Fast Learner,False,True
+306,Rachel,48,1,114228.17,2015-07-28,Team Player,False,True
+307,Rachel,60,0,75419.21,2021-04-05,Needs Improvement,False,True
+308,Rachel,30,1,69276.58,2023-08-21,Fast Learner,False,True
+309,Paul,43,0,86294.57,2021-10-26,Reliable,True,False
+310,Tom,32,1,37287.83,2019-05-25,Reliable,False,True
+311,Tom,38,0,90626.29,2021-07-30,Team Player,True,False
+312,Alice,41,0,49036.59,2019-10-30,Hardworking,True,False
+313,Alice,41,0,45630.79,2021-06-04,Reliable,True,False
+314,Steve,28,1,102814.73,2020-05-09,Reliable,True,False
+315,Rachel,26,0,51882.12,2016-07-07,Team Player,True,False
+316,Eve,35,0,37598.01,2019-05-19,Reliable,False,True
+317,John,58,1,69585.05,2017-07-12,Needs Improvement,True,False
+318,Linda,52,1,67805.33,2019-05-04,Creative,False,True
+319,Bob,31,0,78734.4,2019-05-08,Hardworking,False,True
+320,Tom,33,1,85268.62,2019-10-26,Hardworking,False,True
+321,Paul,27,0,84452.83,2018-04-29,Team Player,True,False
+322,Paul,49,1,63042.48,2022-02-11,Team Player,False,True
+323,Rachel,29,1,58872.7,2018-12-18,Team Player,False,True
+324,Alice,39,0,118001.55,2020-05-01,Team Player,False,True
+325,John,29,0,61310.93,2023-02-27,Reliable,True,False
+326,Rachel,35,0,42395.63,2023-04-22,Hardworking,False,True
+327,Rachel,29,0,49672.15,2021-03-22,Reliable,True,False
+328,Bob,52,1,67211.47,2019-07-23,Creative,True,False
+329,Tom,23,1,93402.03,2021-08-10,Dedicated,True,False
+330,Rachel,36,1,54134.29,2023-11-08,Hardworking,False,True
+331,Steve,45,1,95222.66,2018-06-25,Hardworking,True,False
+332,Paul,25,1,57485.16,2022-02-01,Needs Improvement,True,False
+333,Linda,42,1,80500.34,2015-03-29,Needs Improvement,True,False
+334,Rachel,43,0,37419.14,2020-12-20,Team Player,True,False
+335,Eve,47,1,118941.47,2015-07-07,Fast Learner,True,False
+336,Bob,25,0,115902.9,2018-02-04,Creative,True,False
+337,Linda,35,1,35068.55,2020-08-01,Fast Learner,True,False
+338,Linda,57,1,70157.21,2019-07-15,Dedicated,True,False
+339,Bob,47,0,81149.7,2017-05-18,Team Player,False,True
+340,John,58,1,60414.36,2022-03-18,Reliable,False,True
+341,John,42,0,37008.41,2021-03-12,Hardworking,True,False
+342,Paul,27,0,85086.04,2019-11-06,Dedicated,False,True
+343,Bob,56,1,37686.0,2023-03-02,Needs Improvement,False,True
+344,Bob,52,0,40946.16,2020-07-13,Needs Improvement,False,True
+345,Tom,45,0,119453.54,2023-12-22,Fast Learner,False,True
+346,Sara,47,0,74465.42,2024-04-26,Fast Learner,True,False
+347,Alice,23,0,57471.59,2015-11-16,Reliable,False,True
+348,Eve,24,1,82768.02,2016-10-23,Team Player,False,True
+349,Linda,31,0,38701.91,2017-12-03,Needs Improvement,False,True
+350,Rachel,35,0,57321.79,2021-12-18,Reliable,False,True
+351,Sara,49,0,59280.54,2023-09-27,Team Player,False,True
+352,Tom,38,1,50721.95,2016-10-08,Team Player,False,True
+353,Rachel,26,0,45035.33,2024-10-07,Creative,False,True
+354,Bob,44,0,79841.82,2020-10-02,Needs Improvement,False,True
+355,Sara,50,1,114114.29,2018-02-05,Needs Improvement,False,True
+356,Rachel,54,1,77774.57,2015-01-26,Team Player,False,True
+357,Steve,34,0,119131.69,2020-11-10,Hardworking,False,True
+358,Steve,43,0,111211.38,2015-11-04,Hardworking,False,True
+359,Sara,45,0,66644.0,2017-06-12,Fast Learner,False,True
+360,Bob,45,1,86067.84,2023-03-06,Fast Learner,False,True
+361,Tom,48,0,30890.56,2023-02-09,Reliable,False,True
+362,Alice,57,1,89872.81,2021-05-31,Fast Learner,False,True
+363,Rachel,31,1,69369.21,2015-06-17,Fast Learner,True,False
+364,Eve,60,1,70888.87,2019-11-04,Creative,False,True
+365,Linda,36,1,38412.45,2023-03-28,Creative,False,True
+366,John,30,1,58997.7,2021-09-10,Needs Improvement,True,False
+367,Steve,34,1,93269.91,2021-07-03,Fast Learner,False,True
+368,Bob,46,0,106528.54,2015-09-28,Needs Improvement,True,False
+369,Bob,52,0,39841.86,2020-06-16,Reliable,False,True
+370,Bob,55,0,79847.47,2022-05-25,Team Player,False,True
+371,John,26,1,105213.95,2015-06-16,Creative,False,True
+372,Linda,32,1,37188.93,2020-06-19,Team Player,False,True
+373,John,53,1,94251.71,2022-11-16,Reliable,False,True
+374,Alice,60,0,30070.03,2015-10-15,Dedicated,False,True
+375,Sara,25,0,76036.16,2017-06-01,Team Player,False,True
+376,Sara,59,1,80892.88,2019-03-11,Needs Improvement,False,True
+377,Rachel,29,1,36223.44,2016-05-31,Dedicated,True,False
+378,John,50,0,77797.51,2017-10-30,Team Player,True,False
+379,Sara,46,0,113584.7,2018-06-28,Hardworking,False,True
+380,Linda,44,0,41596.67,2017-07-31,Fast Learner,False,True
+381,Sara,51,0,77772.23,2019-11-20,Creative,False,True
+382,Eve,42,1,82101.2,2018-11-18,Creative,False,True
+383,Eve,55,1,83659.24,2019-09-16,Reliable,True,False
+384,Linda,40,0,87902.84,2024-01-20,Needs Improvement,True,False
+385,Rachel,51,0,70226.12,2019-05-16,Hardworking,True,False
+386,Alice,34,0,89567.25,2018-10-09,Reliable,False,True
+387,John,28,0,56763.07,2024-04-06,Team Player,True,False
+388,Bob,23,1,107402.48,2017-12-31,Team Player,True,False
+389,Rachel,22,1,118465.96,2015-01-31,Reliable,True,False
+390,Steve,23,0,114122.76,2015-06-23,Team Player,True,False
+391,Rachel,24,1,34495.41,2022-05-02,Team Player,True,False
+392,Alice,27,1,108465.12,2021-01-11,Reliable,True,False
+393,John,34,1,46141.12,2016-05-17,Team Player,True,False
+394,Sara,33,1,117168.64,2023-03-03,Fast Learner,False,True
+395,Rachel,50,1,72338.9,2019-05-26,Fast Learner,True,False
+396,Sara,25,1,57792.24,2024-03-17,Team Player,False,True
+397,Bob,38,0,67763.57,2021-11-08,Fast Learner,False,True
+398,Linda,45,1,79149.96,2020-11-23,Hardworking,True,False
+399,John,41,0,111443.95,2019-04-29,Needs Improvement,True,False
+400,John,35,1,97763.22,2016-11-09,Creative,True,False
+401,Eve,48,0,59602.58,2022-12-03,Fast Learner,False,True
+402,Steve,59,0,103586.95,2018-09-05,Creative,False,True
+403,Eve,32,1,103147.13,2020-06-29,Fast Learner,False,True
+404,Rachel,47,0,55383.94,2020-07-26,Hardworking,False,True
+405,Paul,60,0,73754.73,2020-11-22,Fast Learner,True,False
+406,Linda,30,0,67146.77,2018-04-10,Team Player,True,False
+407,Alice,32,1,94697.75,2017-05-20,Dedicated,True,False
+408,Linda,23,1,34468.71,2024-12-05,Fast Learner,False,True
+409,Rachel,43,1,106459.73,2022-05-09,Team Player,False,True
+410,Rachel,59,0,91734.28,2022-04-16,Fast Learner,True,False
+411,Paul,37,0,104669.33,2021-07-29,Dedicated,False,True
+412,Rachel,44,1,43847.21,2020-12-07,Hardworking,False,True
+413,Sara,35,0,72134.44,2020-11-04,Dedicated,True,False
+414,John,39,1,38055.86,2016-05-28,Needs Improvement,True,False
+415,Rachel,31,1,112851.17,2017-03-21,Reliable,False,True
+416,Steve,53,1,30754.25,2024-08-07,Fast Learner,True,False
+417,Sara,27,1,111781.74,2023-11-13,Fast Learner,True,False
+418,Tom,26,0,96756.97,2020-04-08,Needs Improvement,True,False
+419,Tom,49,0,42254.71,2017-08-21,Reliable,False,True
+420,John,38,1,105343.54,2018-07-26,Team Player,False,True
+421,John,37,1,89182.75,2023-03-27,Team Player,True,False
+422,Tom,50,0,108349.83,2020-06-06,Creative,True,False
+423,Eve,31,0,116869.83,2023-03-30,Creative,True,False
+424,John,26,1,66116.45,2017-11-16,Team Player,False,True
+425,Bob,29,1,38473.99,2018-08-23,Creative,False,True
+426,Alice,46,0,55945.61,2020-07-19,Creative,True,False
+427,Linda,42,1,46743.1,2020-04-18,Reliable,True,False
+428,Steve,60,1,110638.83,2017-06-01,Team Player,False,True
+429,Bob,48,0,117226.21,2024-04-09,Dedicated,True,False
+430,Rachel,22,1,111120.69,2015-04-27,Creative,True,False
+431,John,27,1,114433.61,2015-10-26,Reliable,False,True
+432,Paul,45,1,70636.08,2023-10-19,Dedicated,True,False
+433,Tom,30,1,106519.78,2015-10-25,Hardworking,True,False
+434,Linda,40,0,96332.59,2020-01-05,Fast Learner,True,False
+435,Rachel,50,0,87961.56,2015-01-05,Hardworking,True,False
+436,Paul,53,1,109728.2,2017-03-14,Fast Learner,False,True
+437,Bob,56,0,50454.91,2020-06-01,Team Player,False,True
+438,John,45,1,70060.62,2022-12-27,Fast Learner,True,False
+439,Linda,27,1,116890.35,2017-08-10,Creative,True,False
+440,Linda,53,0,67940.46,2019-12-19,Creative,True,False
+441,Tom,41,1,106118.7,2016-07-28,Fast Learner,False,True
+442,Alice,37,0,72015.01,2020-07-01,Fast Learner,False,True
+443,Linda,44,0,76243.52,2020-11-25,Team Player,True,False
+444,Rachel,37,0,61542.08,2017-07-05,Team Player,True,False
+445,Tom,40,1,59520.0,2019-10-12,Creative,True,False
+446,Paul,29,0,91567.98,2023-05-01,Reliable,True,False
+447,Sara,55,0,63406.92,2024-11-04,Dedicated,False,True
+448,Bob,40,0,94669.73,2023-02-02,Creative,True,False
+449,John,28,1,51194.83,2018-02-12,Hardworking,True,False
+450,Paul,28,1,42091.25,2020-02-28,Creative,False,True
+451,Alice,36,0,89240.41,2024-09-21,Fast Learner,True,False
+452,Paul,27,1,59194.97,2022-02-12,Needs Improvement,False,True
+453,Alice,56,0,112444.14,2016-09-22,Fast Learner,False,True
+454,Sara,41,0,74535.65,2024-11-16,Reliable,False,True
+455,Alice,22,1,100166.41,2023-04-14,Team Player,True,False
+456,Linda,28,1,53682.37,2019-05-03,Hardworking,True,False
+457,John,44,1,55450.87,2023-08-16,Needs Improvement,True,False
+458,Sara,59,0,118477.88,2020-05-16,Creative,True,False
+459,Tom,25,1,71409.44,2015-12-02,Team Player,False,True
+460,Rachel,40,0,100833.22,2017-05-05,Dedicated,True,False
+461,Bob,56,0,76509.41,2017-05-25,Fast Learner,False,True
+462,Sara,30,1,105112.91,2015-02-27,Dedicated,False,True
+463,Sara,26,0,43127.93,2020-10-15,Team Player,True,False
+464,Alice,49,1,107500.63,2015-07-10,Creative,True,False
+465,Rachel,39,1,39872.95,2022-12-04,Needs Improvement,True,False
+466,Paul,42,0,30385.55,2015-03-05,Needs Improvement,False,True
+467,Rachel,27,1,113546.98,2021-07-20,Reliable,False,True
+468,Steve,55,1,97177.77,2018-10-26,Hardworking,False,True
+469,Linda,34,0,37525.95,2016-10-26,Reliable,True,False
+470,Tom,31,1,97427.59,2019-10-15,Creative,False,True
+471,Bob,46,0,30734.12,2021-07-24,Creative,True,False
+472,Bob,39,1,92670.35,2019-07-28,Hardworking,True,False
+473,Bob,31,0,81712.03,2024-06-08,Dedicated,False,True
+474,Linda,34,0,118082.92,2023-08-16,Fast Learner,False,True
+475,Eve,33,1,34456.2,2018-03-12,Reliable,False,True
+476,Alice,41,0,63991.08,2021-01-09,Team Player,False,True
+477,Eve,35,1,78147.76,2015-05-19,Creative,True,False
+478,Tom,27,0,42480.69,2018-12-15,Hardworking,True,False
+479,Eve,54,1,45225.87,2017-11-12,Fast Learner,False,True
+480,Linda,23,0,99447.12,2018-05-15,Hardworking,False,True
+481,John,57,0,104317.5,2022-04-27,Hardworking,False,True
+482,Eve,45,1,93684.9,2022-03-15,Team Player,True,False
+483,Rachel,31,1,61355.23,2020-05-17,Fast Learner,False,True
+484,Steve,50,1,76308.41,2021-05-11,Fast Learner,False,True
+485,Tom,29,0,60787.54,2024-12-12,Fast Learner,True,False
+486,Linda,41,1,79945.18,2022-02-27,Hardworking,True,False
+487,Steve,51,0,77896.49,2016-03-31,Fast Learner,True,False
+488,Bob,35,0,86017.47,2018-04-22,Team Player,True,False
+489,Tom,32,0,109180.29,2024-05-17,Dedicated,False,True
+490,Tom,32,0,95633.63,2024-02-24,Fast Learner,True,False
+491,John,38,0,37796.08,2021-07-12,Team Player,False,True
+492,Bob,53,0,52409.14,2023-11-05,Creative,True,False
+493,Sara,22,1,83905.18,2024-04-05,Team Player,False,True
+494,Bob,32,0,36596.36,2018-05-16,Needs Improvement,False,True
+495,Bob,54,1,82116.95,2018-05-31,Creative,False,True
+496,Eve,44,0,118383.09,2017-06-02,Creative,False,True
+497,Eve,35,1,66325.2,2019-11-02,Team Player,True,False
+498,Eve,47,0,86653.31,2023-05-18,Dedicated,False,True
+499,Alice,34,1,67950.97,2016-06-03,Creative,True,False
+500,Sara,25,1,102679.18,2023-08-27,Team Player,False,True
+501,Alice,26,0,97114.84,2023-06-19,Needs Improvement,True,False
+502,Eve,60,1,78652.11,2015-12-05,Reliable,True,False
+503,Bob,42,1,65330.85,2017-01-11,Creative,True,False
+504,Sara,47,1,53381.17,2023-04-03,Hardworking,True,False
+505,Steve,32,1,118988.65,2023-04-23,Needs Improvement,True,False
+506,Eve,57,1,117043.95,2018-10-10,Dedicated,False,True
+507,Alice,49,1,91169.07,2020-10-29,Reliable,False,True
+508,Eve,48,1,36909.34,2023-03-21,Fast Learner,True,False
+509,Bob,59,1,81285.71,2017-12-20,Team Player,True,False
+510,Linda,56,0,54798.99,2023-10-19,Creative,True,False
+511,Paul,31,1,40039.25,2020-11-19,Dedicated,False,True
+512,Rachel,29,1,98922.71,2018-07-05,Fast Learner,False,True
+513,Eve,42,0,45115.46,2019-06-11,Dedicated,True,False
+514,Alice,47,0,48457.32,2017-04-28,Needs Improvement,False,True
+515,Tom,49,0,64072.37,2018-02-18,Creative,False,True
+516,Alice,51,1,37605.4,2020-06-16,Fast Learner,True,False
+517,Linda,58,1,92637.52,2019-06-24,Dedicated,True,False
+518,Paul,46,1,57727.88,2022-03-03,Dedicated,False,True
+519,Alice,55,0,105125.5,2021-07-10,Creative,False,True
+520,Alice,47,1,30735.07,2015-08-25,Fast Learner,False,True
+521,Tom,33,0,52293.05,2024-05-11,Fast Learner,False,True
+522,Linda,58,1,73872.39,2022-06-17,Needs Improvement,False,True
+523,Steve,52,1,64027.91,2017-11-02,Fast Learner,True,False
+524,John,53,1,64849.53,2015-03-08,Dedicated,True,False
+525,Sara,55,0,96660.9,2020-09-05,Dedicated,True,False
+526,Bob,23,1,94327.18,2015-07-21,Reliable,False,True
+527,John,60,1,92944.5,2019-01-08,Needs Improvement,False,True
+528,Paul,25,0,113281.9,2015-11-05,Hardworking,True,False
+529,Eve,22,1,117226.59,2022-12-18,Needs Improvement,False,True
+530,Bob,50,0,96053.92,2019-09-15,Dedicated,False,True
+531,Steve,49,0,114776.21,2016-09-19,Dedicated,False,True
+532,Alice,27,0,76651.51,2018-05-04,Needs Improvement,False,True
+533,Bob,56,0,63570.04,2021-06-24,Reliable,False,True
+534,Bob,50,0,32178.26,2021-10-25,Team Player,True,False
+535,Sara,49,1,71525.38,2020-01-15,Creative,False,True
+536,Steve,36,1,61929.47,2019-08-09,Dedicated,False,True
+537,John,23,0,101239.71,2022-06-18,Hardworking,False,True
+538,Alice,42,1,101666.29,2024-09-18,Needs Improvement,False,True
+539,Paul,41,0,68128.85,2024-10-08,Fast Learner,True,False
+540,Steve,55,0,74855.97,2021-11-13,Hardworking,True,False
+541,Steve,34,0,79339.12,2024-02-26,Creative,True,False
+542,Linda,57,1,46042.61,2018-05-02,Needs Improvement,False,True
+543,Sara,60,1,57103.03,2024-10-31,Dedicated,False,True
+544,John,22,1,36093.57,2022-04-23,Hardworking,False,True
+545,Bob,52,0,112874.23,2020-06-16,Fast Learner,True,False
+546,Eve,55,0,55288.82,2024-08-23,Team Player,False,True
+547,Paul,60,1,113834.8,2023-01-29,Fast Learner,False,True
+548,Eve,30,0,88980.08,2017-09-20,Creative,False,True
+549,Alice,45,0,79793.46,2020-08-09,Team Player,False,True
+550,Bob,33,1,45792.07,2021-02-28,Reliable,True,False
+551,Linda,35,0,62662.64,2017-11-02,Needs Improvement,True,False
+552,Sara,31,0,115843.15,2022-08-20,Hardworking,False,True
+553,Alice,25,1,48606.98,2015-01-16,Reliable,False,True
+554,Steve,24,0,41637.66,2023-07-22,Team Player,True,False
+555,Tom,29,0,60346.74,2020-09-15,Reliable,True,False
+556,John,43,0,92378.38,2017-08-02,Dedicated,True,False
+557,Eve,38,1,62149.23,2016-05-10,Needs Improvement,True,False
+558,Sara,59,1,110482.45,2021-08-09,Dedicated,True,False
+559,Paul,49,1,102092.96,2017-09-21,Dedicated,True,False
+560,Paul,34,1,93071.83,2017-05-08,Needs Improvement,False,True
+561,Sara,48,1,58374.77,2020-08-17,Reliable,False,True
+562,Alice,44,0,101178.87,2022-09-07,Creative,False,True
+563,Eve,42,1,41038.09,2016-08-06,Creative,True,False
+564,Alice,28,0,75822.18,2017-05-07,Reliable,False,True
+565,John,30,1,50345.34,2022-08-26,Needs Improvement,True,False
+566,Tom,42,0,84876.62,2019-01-08,Fast Learner,True,False
+567,John,39,0,85711.85,2019-07-08,Team Player,False,True
+568,Linda,46,0,90613.61,2020-09-13,Team Player,False,True
+569,Linda,49,1,97510.06,2021-03-14,Creative,True,False
+570,Sara,40,0,34942.07,2022-04-27,Creative,False,True
+571,Steve,28,0,98228.78,2019-02-13,Creative,True,False
+572,Bob,57,0,58886.68,2024-05-26,Dedicated,True,False
+573,Sara,47,1,37882.17,2019-12-08,Reliable,False,True
+574,Paul,42,1,96308.11,2015-02-22,Needs Improvement,True,False
+575,Linda,55,1,108195.58,2021-09-28,Hardworking,True,False
+576,Steve,53,1,106793.92,2024-02-13,Fast Learner,True,False
+577,Rachel,36,1,95370.96,2017-01-31,Dedicated,False,True
+578,Sara,45,1,80775.76,2023-07-31,Hardworking,True,False
+579,Bob,39,0,31391.54,2020-08-26,Fast Learner,False,True
+580,Tom,38,1,89013.17,2022-01-02,Needs Improvement,True,False
+581,Paul,46,0,62392.31,2022-06-15,Fast Learner,False,True
+582,John,43,0,56175.88,2020-04-08,Creative,True,False
+583,Alice,51,1,52394.65,2019-09-24,Dedicated,True,False
+584,Tom,43,0,95410.97,2016-01-24,Team Player,True,False
+585,Linda,49,1,57549.02,2023-01-23,Needs Improvement,False,True
+586,Rachel,51,1,105986.17,2020-04-29,Team Player,False,True
+587,Alice,49,1,90765.58,2023-03-30,Needs Improvement,False,True
+588,Paul,50,1,74264.54,2023-05-10,Reliable,False,True
+589,Bob,49,0,117286.79,2022-04-12,Fast Learner,True,False
+590,Steve,36,0,96727.29,2015-08-19,Fast Learner,False,True
+591,Linda,43,1,79535.43,2019-12-24,Creative,True,False
+592,Linda,35,0,112211.75,2023-04-22,Team Player,False,True
+593,John,36,1,79601.06,2021-06-01,Hardworking,True,False
+594,John,33,1,80457.31,2017-06-21,Needs Improvement,True,False
+595,Linda,27,0,102880.07,2022-11-14,Fast Learner,False,True
+596,Tom,40,0,97017.54,2021-10-05,Creative,False,True
+597,Rachel,40,0,46947.64,2019-05-30,Needs Improvement,False,True
+598,Rachel,23,0,79197.83,2020-05-29,Reliable,False,True
+599,Rachel,47,0,107183.31,2022-02-08,Creative,False,True
+600,Alice,53,0,47474.72,2022-07-16,Needs Improvement,False,True
+601,Paul,26,1,35721.81,2017-03-06,Dedicated,False,True
+602,Linda,60,1,88940.41,2015-01-26,Reliable,False,True
+603,Paul,29,0,35925.57,2023-09-07,Reliable,False,True
+604,John,55,1,58033.76,2020-06-24,Hardworking,False,True
+605,Alice,27,0,45666.91,2015-12-03,Dedicated,False,True
+606,Eve,49,1,119174.77,2021-11-22,Needs Improvement,False,True
+607,Paul,45,1,67336.31,2024-03-17,Needs Improvement,True,False
+608,Sara,46,1,94143.44,2016-08-19,Team Player,False,True
+609,Tom,38,1,119271.35,2024-04-19,Fast Learner,True,False
+610,Sara,26,0,113270.63,2016-03-03,Dedicated,False,True
+611,Bob,44,0,51037.52,2016-07-09,Needs Improvement,False,True
+612,Bob,33,0,48370.66,2020-08-24,Team Player,False,True
+613,Eve,25,1,91412.13,2016-05-11,Reliable,False,True
+614,Tom,59,0,104485.49,2017-01-19,Hardworking,False,True
+615,Bob,59,1,72335.2,2017-11-20,Creative,True,False
+616,Linda,28,0,44508.95,2021-01-30,Dedicated,False,True
+617,Rachel,43,1,47096.7,2018-04-10,Hardworking,False,True
+618,Linda,54,1,108331.44,2023-06-08,Creative,False,True
+619,John,54,1,67355.56,2021-11-27,Fast Learner,True,False
+620,Sara,23,0,58228.54,2016-03-21,Team Player,True,False
+621,Bob,58,0,97523.39,2019-10-07,Dedicated,False,True
+622,Rachel,55,1,34635.5,2024-06-11,Creative,True,False
+623,Rachel,31,1,106916.13,2016-03-03,Team Player,True,False
+624,Bob,60,0,33228.63,2023-10-10,Needs Improvement,False,True
+625,Bob,29,1,118475.16,2019-05-13,Team Player,False,True
+626,Paul,43,1,96036.23,2023-10-18,Needs Improvement,False,True
+627,Alice,39,0,69637.71,2023-12-22,Team Player,True,False
+628,Paul,28,0,119519.84,2016-12-09,Reliable,True,False
+629,Rachel,40,0,61552.64,2018-03-18,Needs Improvement,False,True
+630,John,55,1,82861.46,2024-02-03,Needs Improvement,True,False
+631,John,35,1,55759.92,2021-02-24,Needs Improvement,False,True
+632,Sara,56,0,107357.54,2018-10-31,Dedicated,True,False
+633,Rachel,47,0,111179.28,2018-10-31,Reliable,False,True
+634,Paul,40,0,97346.99,2017-04-20,Reliable,False,True
+635,Rachel,58,0,86805.54,2022-10-11,Dedicated,False,True
+636,Alice,25,0,49515.77,2018-05-09,Fast Learner,True,False
+637,Steve,29,1,82421.42,2024-06-10,Reliable,False,True
+638,Tom,46,1,106213.4,2018-06-01,Fast Learner,True,False
+639,Paul,59,1,53120.55,2024-12-07,Needs Improvement,False,True
+640,John,60,0,55892.3,2022-12-25,Needs Improvement,False,True
+641,John,27,1,32178.07,2022-07-12,Needs Improvement,True,False
+642,Tom,23,1,99918.74,2021-12-30,Hardworking,False,True
+643,Bob,50,0,34105.88,2016-06-04,Needs Improvement,True,False
+644,Linda,55,1,58393.31,2022-02-21,Creative,True,False
+645,Paul,50,0,110101.09,2019-04-08,Reliable,False,True
+646,Sara,58,0,109620.55,2019-11-03,Team Player,False,True
+647,Bob,59,0,74850.39,2015-03-04,Needs Improvement,False,True
+648,Paul,36,0,108562.11,2023-01-12,Dedicated,False,True
+649,Eve,35,0,75812.64,2015-04-06,Team Player,False,True
+650,Eve,23,1,49569.58,2021-12-18,Hardworking,True,False
+651,Eve,26,0,119555.26,2016-09-05,Fast Learner,True,False
+652,Bob,40,1,113265.77,2016-11-22,Needs Improvement,False,True
+653,Bob,24,0,60679.64,2023-03-05,Fast Learner,True,False
+654,Tom,55,0,110619.59,2020-09-23,Needs Improvement,False,True
+655,Linda,24,0,34996.82,2023-06-21,Creative,False,True
+656,Rachel,55,1,77968.43,2015-01-19,Team Player,False,True
+657,Eve,53,0,62265.29,2017-01-14,Dedicated,True,False
+658,Linda,22,0,72484.22,2016-11-28,Creative,False,True
+659,Steve,37,1,118200.99,2023-10-02,Dedicated,True,False
+660,Eve,33,1,48746.66,2024-09-14,Hardworking,True,False
+661,Tom,57,1,45421.98,2021-06-24,Creative,False,True
+662,Alice,53,0,39580.87,2022-11-18,Needs Improvement,True,False
+663,Sara,53,0,62592.73,2024-10-09,Creative,True,False
+664,Bob,50,1,43279.01,2021-01-14,Team Player,True,False
+665,Eve,29,1,98794.64,2024-07-26,Hardworking,True,False
+666,Steve,51,1,62303.72,2023-07-09,Hardworking,True,False
+667,Linda,60,0,108527.64,2021-02-04,Reliable,False,True
+668,Sara,51,0,114197.08,2024-02-05,Team Player,False,True
+669,Alice,31,0,55275.13,2024-11-20,Reliable,True,False
+670,Sara,49,0,117018.52,2017-11-08,Reliable,False,True
+671,Rachel,35,0,57369.66,2021-05-02,Hardworking,True,False
+672,Tom,30,1,89365.85,2023-04-07,Team Player,True,False
+673,Bob,42,0,110815.6,2016-01-05,Reliable,False,True
+674,Sara,53,1,98952.57,2024-08-03,Fast Learner,True,False
+675,Tom,59,0,34520.85,2021-08-06,Hardworking,True,False
+676,Eve,60,0,31722.5,2017-08-26,Dedicated,True,False
+677,Sara,60,0,65911.8,2018-05-29,Fast Learner,True,False
+678,Sara,40,0,92120.84,2017-02-17,Creative,False,True
+679,Rachel,60,1,80607.95,2019-08-01,Dedicated,False,True
+680,Eve,38,0,72293.14,2019-09-20,Fast Learner,False,True
+681,John,41,0,72033.1,2015-11-15,Creative,False,True
+682,Tom,46,0,76247.5,2023-05-18,Needs Improvement,True,False
+683,Alice,39,1,60793.97,2024-02-11,Fast Learner,False,True
+684,Alice,52,0,82967.56,2017-01-01,Needs Improvement,False,True
+685,Bob,49,0,54104.15,2015-07-27,Fast Learner,False,True
+686,Sara,45,1,32983.61,2015-01-05,Dedicated,False,True
+687,Rachel,41,1,34603.82,2023-03-21,Team Player,True,False
+688,Bob,49,1,62745.41,2023-04-22,Needs Improvement,True,False
+689,Rachel,57,1,50908.23,2016-02-06,Team Player,True,False
+690,Sara,33,1,51579.72,2019-06-14,Reliable,True,False
+691,Paul,27,0,90685.89,2017-02-03,Dedicated,False,True
+692,Sara,49,0,96618.83,2021-05-17,Hardworking,False,True
+693,Tom,42,0,79435.81,2019-07-12,Reliable,False,True
+694,Rachel,54,0,89639.92,2023-01-03,Dedicated,False,True
+695,Eve,34,0,91700.04,2015-02-10,Fast Learner,True,False
+696,Tom,49,0,36509.24,2017-11-16,Fast Learner,False,True
+697,Paul,40,0,44081.62,2024-02-20,Needs Improvement,True,False
+698,Eve,26,0,64557.8,2015-03-05,Reliable,True,False
+699,Rachel,34,0,50217.13,2024-05-26,Team Player,False,True
+700,Alice,40,1,93736.73,2015-12-30,Dedicated,True,False
+701,Tom,22,1,109850.39,2024-09-13,Reliable,False,True
+702,Sara,28,0,69762.72,2019-04-18,Dedicated,True,False
+703,Bob,28,0,105489.99,2016-10-01,Creative,False,True
+704,Sara,25,1,97132.25,2022-12-13,Fast Learner,False,True
+705,Eve,44,1,95098.84,2021-10-01,Fast Learner,False,True
+706,Alice,40,0,32610.2,2023-04-28,Hardworking,False,True
+707,Paul,38,0,53668.47,2019-07-25,Team Player,False,True
+708,Eve,37,0,76992.66,2023-09-30,Needs Improvement,True,False
+709,Bob,32,0,75016.54,2015-07-20,Reliable,True,False
+710,Tom,45,0,55267.56,2016-06-21,Creative,True,False
+711,John,38,0,70230.05,2022-11-14,Fast Learner,False,True
+712,Alice,37,0,99804.16,2015-06-13,Reliable,False,True
+713,Sara,60,1,82233.43,2019-07-13,Hardworking,True,False
+714,John,57,0,95479.01,2021-03-18,Team Player,True,False
+715,Bob,34,0,104000.21,2018-02-08,Hardworking,True,False
+716,Alice,51,1,53651.17,2018-09-20,Needs Improvement,True,False
+717,Steve,54,0,90804.05,2021-02-01,Creative,False,True
+718,Steve,40,0,110354.84,2020-05-12,Hardworking,True,False
+719,Tom,47,0,106335.63,2024-09-21,Team Player,False,True
+720,Alice,29,1,115598.47,2020-01-29,Hardworking,True,False
+721,Steve,42,0,81473.73,2018-11-04,Needs Improvement,False,True
+722,Rachel,39,0,44703.82,2023-07-11,Creative,True,False
+723,Steve,33,0,76322.96,2017-02-28,Team Player,True,False
+724,Paul,45,1,101337.81,2020-08-06,Creative,True,False
+725,Rachel,49,1,67180.45,2021-03-25,Creative,False,True
+726,Steve,23,1,100397.04,2016-07-06,Hardworking,True,False
+727,Tom,27,0,52311.92,2022-04-26,Hardworking,False,True
+728,Alice,51,1,95547.87,2021-02-07,Reliable,False,True
+729,Paul,39,1,88564.43,2023-08-05,Team Player,False,True
+730,Tom,33,0,83024.35,2024-12-28,Dedicated,False,True
+731,Linda,28,0,105604.47,2016-09-25,Team Player,True,False
+732,Paul,59,1,44420.68,2020-01-16,Hardworking,False,True
+733,Tom,29,0,79701.85,2017-01-30,Needs Improvement,False,True
+734,Rachel,35,0,89623.15,2021-03-27,Needs Improvement,False,True
+735,Sara,47,0,72408.58,2018-02-13,Fast Learner,False,True
+736,Tom,39,0,35933.61,2021-06-08,Team Player,True,False
+737,John,60,0,98620.92,2015-01-05,Creative,True,False
+738,John,52,1,73628.35,2019-01-11,Team Player,False,True
+739,Rachel,50,0,59258.87,2021-12-13,Dedicated,False,True
+740,Paul,52,0,83619.84,2016-05-16,Needs Improvement,True,False
+741,Sara,56,1,114049.19,2016-06-07,Hardworking,False,True
+742,Rachel,54,0,59832.23,2023-07-20,Team Player,True,False
+743,Paul,37,1,88965.04,2021-10-17,Fast Learner,True,False
+744,John,49,1,97667.2,2019-05-22,Creative,True,False
+745,Alice,57,0,40346.22,2016-03-09,Team Player,False,True
+746,Paul,26,1,109991.35,2024-02-25,Creative,False,True
+747,Alice,59,1,117458.26,2015-10-31,Reliable,True,False
+748,Bob,23,0,33113.62,2021-02-19,Dedicated,False,True
+749,Bob,57,1,42443.24,2024-01-28,Creative,True,False
+750,Paul,54,0,42822.21,2017-05-26,Creative,False,True
+751,Bob,60,0,79290.09,2015-11-27,Team Player,False,True
+752,Sara,39,0,44547.13,2017-02-22,Fast Learner,True,False
+753,Rachel,26,0,75010.98,2024-12-01,Needs Improvement,True,False
+754,Rachel,27,1,85665.9,2017-07-12,Creative,False,True
+755,Paul,34,1,58626.31,2023-10-15,Creative,True,False
+756,Bob,43,1,72285.43,2024-06-10,Team Player,False,True
+757,Paul,42,1,81841.87,2016-10-05,Needs Improvement,False,True
+758,Alice,30,0,104817.21,2021-01-15,Dedicated,False,True
+759,Bob,39,1,104801.3,2022-10-23,Creative,True,False
+760,Paul,49,1,67245.76,2024-06-13,Dedicated,False,True
+761,Linda,50,1,51838.64,2017-10-26,Needs Improvement,False,True
+762,Paul,36,1,67732.17,2019-05-03,Hardworking,True,False
+763,Sara,59,0,30314.35,2022-05-16,Hardworking,False,True
+764,Sara,55,0,84289.74,2016-10-30,Needs Improvement,False,True
+765,Tom,26,0,73322.6,2017-11-12,Reliable,False,True
+766,Linda,31,1,31224.29,2018-07-09,Hardworking,False,True
+767,Sara,50,1,86781.64,2021-07-10,Creative,True,False
+768,Sara,30,0,33739.92,2015-07-08,Reliable,False,True
+769,Linda,33,0,37165.16,2022-03-23,Needs Improvement,True,False
+770,Steve,41,0,46764.66,2015-11-03,Needs Improvement,False,True
+771,Sara,55,1,83516.11,2024-12-23,Hardworking,False,True
+772,Bob,56,1,65071.56,2023-06-24,Creative,True,False
+773,Eve,56,1,55085.08,2024-01-03,Dedicated,False,True
+774,John,60,1,75736.69,2021-09-06,Fast Learner,False,True
+775,Steve,50,0,108785.58,2015-09-06,Hardworking,False,True
+776,Eve,37,1,82976.68,2015-06-03,Fast Learner,True,False
+777,Eve,32,1,50044.15,2018-10-11,Hardworking,True,False
+778,Eve,31,1,84365.1,2017-03-05,Team Player,False,True
+779,Tom,48,1,115230.55,2015-08-11,Reliable,True,False
+780,Linda,25,1,108270.85,2015-09-27,Dedicated,True,False
+781,Linda,53,1,108984.13,2021-04-06,Needs Improvement,True,False
+782,Bob,43,0,46826.98,2023-08-04,Reliable,False,True
+783,Linda,25,0,42483.17,2016-05-22,Reliable,False,True
+784,Eve,37,1,37546.18,2020-07-19,Fast Learner,True,False
+785,Steve,22,0,45407.81,2021-02-18,Needs Improvement,False,True
+786,Rachel,58,1,61778.21,2018-02-24,Dedicated,False,True
+787,Steve,37,1,85931.84,2019-05-08,Reliable,True,False
+788,John,58,1,82764.67,2023-03-18,Hardworking,False,True
+789,Paul,60,1,62322.18,2020-04-02,Dedicated,True,False
+790,Paul,30,1,119327.32,2018-11-21,Needs Improvement,True,False
+791,Tom,45,0,106984.83,2017-08-29,Dedicated,True,False
+792,Steve,43,0,118812.58,2018-09-03,Creative,True,False
+793,Rachel,29,1,80968.46,2018-12-11,Needs Improvement,False,True
+794,Steve,23,1,43887.14,2022-09-03,Reliable,True,False
+795,Steve,36,0,115438.02,2021-12-22,Creative,True,False
+796,Eve,29,0,58569.52,2015-01-16,Dedicated,True,False
+797,John,41,1,46140.53,2021-09-15,Reliable,True,False
+798,Rachel,51,1,100309.71,2020-02-05,Dedicated,False,True
+799,Steve,36,1,46266.49,2015-06-09,Reliable,True,False
+800,John,58,1,105113.78,2022-03-08,Needs Improvement,True,False
+801,Bob,39,0,88189.24,2015-08-11,Team Player,True,False
+802,Tom,50,0,109271.13,2021-08-21,Creative,True,False
+803,Sara,49,0,99078.58,2020-06-02,Needs Improvement,False,True
+804,Eve,28,0,31795.15,2015-07-12,Needs Improvement,False,True
+805,John,34,0,104866.39,2019-02-11,Creative,False,True
+806,Bob,28,1,41668.37,2019-08-28,Dedicated,False,True
+807,Bob,38,1,85989.59,2017-08-24,Needs Improvement,False,True
+808,Alice,25,1,90468.78,2020-09-11,Fast Learner,False,True
+809,Sara,37,0,75431.08,2018-09-12,Hardworking,False,True
+810,John,44,1,55464.33,2015-03-31,Team Player,True,False
+811,John,41,1,70905.0,2020-06-06,Dedicated,True,False
+812,Bob,29,1,48810.75,2018-05-26,Dedicated,False,True
+813,Eve,50,1,74498.21,2024-02-05,Needs Improvement,False,True
+814,Eve,39,1,41060.92,2021-02-03,Dedicated,True,False
+815,Steve,55,0,89475.73,2023-08-13,Hardworking,True,False
+816,Paul,25,0,77453.18,2023-08-18,Needs Improvement,True,False
+817,Paul,50,1,55515.36,2019-11-16,Reliable,True,False
+818,Bob,47,1,109502.83,2020-04-17,Creative,False,True
+819,Eve,26,1,107032.59,2020-12-08,Fast Learner,False,True
+820,Sara,52,1,109020.7,2021-05-09,Fast Learner,False,True
+821,Bob,55,1,85438.05,2021-07-26,Creative,False,True
+822,Eve,51,1,116932.55,2024-06-29,Team Player,False,True
+823,Bob,53,0,89492.55,2022-06-22,Creative,False,True
+824,Rachel,35,1,86463.22,2024-02-25,Dedicated,False,True
+825,Tom,43,0,112881.56,2018-07-09,Team Player,False,True
+826,Paul,43,0,119025.5,2022-09-29,Hardworking,False,True
+827,Paul,27,1,49162.87,2023-03-06,Fast Learner,True,False
+828,John,49,1,111188.25,2019-08-13,Needs Improvement,False,True
+829,Bob,28,0,112476.04,2017-07-31,Fast Learner,False,True
+830,Linda,25,1,106809.69,2019-04-23,Reliable,False,True
+831,Bob,49,1,98333.76,2021-12-13,Hardworking,True,False
+832,Alice,34,1,105027.53,2015-05-11,Dedicated,False,True
+833,John,45,0,98536.28,2015-04-27,Dedicated,True,False
+834,Sara,60,0,109000.85,2023-09-28,Reliable,False,True
+835,Bob,38,1,116546.41,2017-11-25,Creative,False,True
+836,Bob,59,0,44802.5,2020-07-28,Creative,True,False
+837,Linda,57,1,105353.2,2018-08-26,Reliable,True,False
+838,Eve,33,1,118032.81,2015-08-24,Reliable,True,False
+839,Paul,49,0,34026.09,2022-09-27,Needs Improvement,False,True
+840,Paul,25,1,88169.74,2018-04-26,Team Player,True,False
+841,Rachel,26,0,43987.83,2016-11-27,Hardworking,True,False
+842,Bob,28,0,86210.21,2016-03-08,Reliable,False,True
+843,Paul,36,1,64674.37,2022-05-27,Needs Improvement,False,True
+844,Tom,36,0,80271.08,2015-07-16,Dedicated,True,False
+845,Alice,35,0,106227.3,2015-01-20,Team Player,False,True
+846,Rachel,48,1,97850.62,2022-01-20,Hardworking,True,False
+847,Rachel,35,1,37905.17,2018-10-17,Team Player,True,False
+848,Linda,32,0,109363.85,2016-06-09,Dedicated,True,False
+849,Bob,32,1,60956.49,2018-11-22,Fast Learner,True,False
+850,Steve,35,0,53707.17,2023-09-06,Reliable,True,False
+851,Sara,56,1,92521.69,2019-12-16,Creative,True,False
+852,Rachel,27,0,86765.99,2024-07-07,Reliable,True,False
+853,John,29,0,41978.16,2022-05-03,Fast Learner,True,False
+854,John,57,0,47514.17,2024-12-17,Needs Improvement,True,False
+855,Paul,33,1,91372.25,2017-07-10,Reliable,False,True
+856,John,25,1,110065.25,2023-06-07,Creative,False,True
+857,Bob,30,1,118556.44,2016-03-29,Dedicated,True,False
+858,Tom,28,1,71663.64,2016-11-14,Needs Improvement,False,True
+859,Rachel,38,0,95909.76,2016-03-15,Dedicated,False,True
+860,Sara,58,0,70627.75,2023-01-11,Creative,True,False
+861,Tom,27,1,71766.37,2020-03-25,Needs Improvement,True,False
+862,Bob,58,1,49098.46,2021-12-06,Needs Improvement,False,True
+863,Bob,35,0,96391.63,2022-07-03,Reliable,False,True
+864,Eve,35,0,33022.41,2020-06-27,Reliable,False,True
+865,Rachel,22,1,68234.66,2024-05-22,Hardworking,False,True
+866,Rachel,59,1,68700.31,2019-12-13,Reliable,False,True
+867,Sara,41,1,108821.34,2019-11-22,Fast Learner,True,False
+868,Linda,35,0,117896.19,2020-05-05,Creative,True,False
+869,Steve,52,1,58820.9,2016-02-21,Hardworking,True,False
+870,Paul,59,0,40725.49,2016-08-04,Reliable,True,False
+871,Tom,26,0,85669.76,2019-10-12,Team Player,False,True
+872,Eve,60,0,65392.61,2024-05-08,Team Player,True,False
+873,Alice,37,0,85467.53,2017-11-04,Hardworking,True,False
+874,Sara,24,1,76942.03,2022-12-04,Needs Improvement,True,False
+875,Tom,33,1,94607.0,2018-08-23,Creative,True,False
+876,Steve,47,1,93995.03,2016-03-26,Reliable,True,False
+877,Alice,41,1,97372.48,2015-07-08,Reliable,True,False
+878,Paul,60,0,103394.45,2023-12-25,Reliable,False,True
+879,Rachel,39,1,91493.26,2018-10-31,Hardworking,True,False
+880,Linda,33,0,53455.89,2024-08-31,Reliable,False,True
+881,Steve,24,0,41605.19,2016-11-22,Team Player,False,True
+882,Rachel,36,0,114651.37,2021-09-24,Team Player,False,True
+883,Bob,52,0,36196.66,2017-07-24,Fast Learner,True,False
+884,Paul,46,0,36999.42,2020-01-11,Hardworking,True,False
+885,Alice,43,0,49843.16,2023-12-24,Reliable,True,False
+886,Rachel,29,1,89450.6,2019-07-11,Fast Learner,True,False
+887,Linda,59,0,42176.38,2024-08-14,Creative,True,False
+888,Bob,51,0,75306.43,2018-04-05,Dedicated,True,False
+889,Tom,46,0,76441.44,2021-07-14,Reliable,False,True
+890,Rachel,53,0,83707.59,2022-12-23,Needs Improvement,False,True
+891,Bob,40,0,80291.71,2024-06-25,Fast Learner,False,True
+892,Alice,33,0,96730.36,2018-07-23,Fast Learner,True,False
+893,Rachel,22,0,84014.03,2018-02-09,Team Player,True,False
+894,Paul,34,1,41685.74,2017-06-30,Reliable,True,False
+895,Rachel,31,0,34839.41,2018-05-16,Dedicated,True,False
+896,Sara,34,0,38872.26,2015-05-21,Reliable,False,True
+897,Sara,48,0,72334.27,2020-01-18,Hardworking,True,False
+898,John,40,0,83091.32,2022-10-20,Reliable,False,True
+899,Bob,50,0,65448.37,2020-11-14,Dedicated,True,False
+900,Rachel,49,0,61964.19,2016-09-02,Needs Improvement,True,False
+901,Paul,32,1,40332.59,2019-09-10,Team Player,True,False
+902,Linda,56,0,104157.1,2023-10-06,Hardworking,True,False
+903,Bob,25,0,100267.83,2020-09-26,Reliable,True,False
+904,Alice,56,1,115871.24,2016-05-21,Fast Learner,True,False
+905,Tom,43,0,47269.84,2017-07-15,Hardworking,True,False
+906,Bob,52,1,44153.95,2020-05-12,Team Player,True,False
+907,Rachel,37,0,93536.94,2019-08-28,Dedicated,True,False
+908,Eve,26,0,35949.26,2022-03-25,Hardworking,True,False
+909,Bob,30,0,85221.71,2017-06-24,Reliable,True,False
+910,Linda,52,1,56093.98,2016-09-20,Fast Learner,False,True
+911,Rachel,39,0,114806.44,2019-07-03,Team Player,False,True
+912,Sara,58,1,37896.66,2019-02-15,Needs Improvement,True,False
+913,Bob,55,0,80097.97,2020-11-01,Hardworking,False,True
+914,Eve,40,1,72944.35,2020-08-22,Dedicated,False,True
+915,John,24,0,91475.3,2019-04-16,Fast Learner,False,True
+916,Sara,22,0,112922.01,2023-09-19,Fast Learner,True,False
+917,Sara,44,0,82528.57,2016-12-25,Team Player,True,False
+918,John,39,1,41384.27,2023-11-12,Dedicated,False,True
+919,Rachel,41,1,115928.15,2022-09-16,Needs Improvement,True,False
+920,Rachel,31,0,87148.68,2022-07-24,Reliable,True,False
+921,Alice,60,1,58640.64,2018-08-07,Needs Improvement,True,False
+922,Steve,42,1,116588.5,2020-08-11,Creative,True,False
+923,Tom,41,0,79019.18,2022-05-29,Needs Improvement,True,False
+924,Eve,37,1,100545.41,2015-01-10,Needs Improvement,False,True
+925,Rachel,28,1,94053.39,2016-04-01,Fast Learner,False,True
+926,Steve,48,0,105480.19,2015-11-08,Creative,False,True
+927,Steve,36,0,74958.69,2022-02-11,Creative,False,True
+928,Sara,53,1,104449.59,2018-12-04,Hardworking,True,False
+929,Eve,59,0,65551.06,2023-09-29,Needs Improvement,True,False
+930,Alice,43,1,86618.28,2021-11-01,Creative,True,False
+931,Rachel,26,0,61904.08,2016-03-24,Fast Learner,True,False
+932,Alice,53,1,83012.41,2016-05-06,Fast Learner,True,False
+933,Paul,38,0,102225.98,2017-04-13,Dedicated,True,False
+934,Tom,55,0,49935.48,2021-06-15,Reliable,True,False
+935,Paul,49,0,32957.39,2022-07-18,Reliable,True,False
+936,Sara,31,0,98296.18,2017-04-15,Hardworking,False,True
+937,Alice,37,0,102074.84,2018-08-19,Needs Improvement,True,False
+938,Sara,55,1,116746.84,2015-06-30,Team Player,True,False
+939,Rachel,30,1,64603.21,2016-02-07,Fast Learner,False,True
+940,Bob,49,1,91086.14,2016-02-27,Team Player,True,False
+941,Paul,38,0,79244.15,2015-12-04,Fast Learner,True,False
+942,Bob,46,0,30234.08,2017-03-06,Dedicated,True,False
+943,Eve,38,0,114513.9,2023-01-11,Hardworking,False,True
+944,Steve,44,0,33713.83,2022-02-21,Reliable,True,False
+945,Eve,33,0,92664.37,2024-10-03,Fast Learner,False,True
+946,Rachel,29,0,77054.25,2018-01-20,Needs Improvement,True,False
+947,Paul,57,0,66615.32,2017-10-08,Dedicated,True,False
+948,Alice,48,0,102198.64,2021-04-11,Fast Learner,True,False
+949,Linda,51,1,86147.42,2016-05-01,Hardworking,False,True
+950,Bob,37,0,98433.86,2024-06-15,Creative,True,False
+951,Sara,46,0,92908.15,2018-05-09,Team Player,False,True
+952,Rachel,34,0,40065.02,2021-12-16,Team Player,False,True
+953,Rachel,24,1,116530.36,2020-10-12,Fast Learner,False,True
+954,Steve,30,1,57573.69,2016-08-01,Team Player,False,True
+955,Eve,35,1,89222.86,2015-03-31,Dedicated,False,True
+956,Eve,58,0,43597.41,2015-07-01,Team Player,False,True
+957,Linda,36,1,62744.97,2017-05-12,Fast Learner,True,False
+958,Tom,38,1,119374.78,2017-04-25,Hardworking,False,True
+959,Eve,31,1,57379.04,2021-08-13,Dedicated,False,True
+960,John,22,0,42670.62,2019-06-13,Reliable,False,True
+961,Steve,51,0,43481.72,2016-09-02,Dedicated,False,True
+962,Sara,60,0,83008.06,2021-09-11,Needs Improvement,True,False
+963,Tom,49,1,50114.4,2020-12-24,Reliable,True,False
+964,John,46,0,70112.08,2015-02-05,Hardworking,False,True
+965,Eve,47,0,77474.5,2017-09-28,Team Player,False,True
+966,Paul,22,0,101973.35,2016-04-13,Hardworking,True,False
+967,Sara,39,1,67272.89,2022-06-16,Needs Improvement,True,False
+968,Tom,59,0,119268.58,2020-06-23,Creative,True,False
+969,Steve,52,0,75646.1,2019-01-15,Team Player,False,True
+970,John,29,1,82979.1,2017-10-22,Hardworking,True,False
+971,John,34,1,103093.4,2017-06-28,Needs Improvement,True,False
+972,Rachel,43,1,82595.83,2024-12-23,Fast Learner,False,True
+973,Eve,46,1,46754.08,2020-04-21,Fast Learner,True,False
+974,Tom,35,0,89561.11,2021-11-02,Fast Learner,True,False
+975,Steve,46,1,74407.36,2016-06-06,Dedicated,False,True
+976,Bob,30,0,77929.11,2018-05-01,Reliable,False,True
+977,Rachel,28,1,112143.01,2017-08-18,Team Player,True,False
+978,Bob,23,1,74119.47,2017-03-10,Hardworking,True,False
+979,Rachel,28,1,63102.51,2024-10-16,Team Player,True,False
+980,Tom,23,0,103970.12,2016-08-16,Fast Learner,False,True
+981,Bob,37,0,92904.07,2024-09-11,Team Player,True,False
+982,Eve,43,1,79411.25,2019-03-27,Creative,True,False
+983,Bob,57,1,78643.05,2023-08-25,Creative,False,True
+984,Eve,36,0,85242.47,2015-10-14,Creative,False,True
+985,Alice,56,1,114699.1,2017-09-29,Team Player,False,True
+986,Linda,23,1,82911.29,2019-12-14,Team Player,False,True
+987,Bob,36,0,108576.32,2023-01-30,Team Player,True,False
+988,Linda,51,1,31443.11,2017-04-28,Dedicated,False,True
+989,Bob,38,1,69397.87,2020-11-12,Creative,False,True
+990,Eve,45,1,52729.26,2024-06-02,Hardworking,False,True
+991,John,33,0,102678.26,2022-05-13,Hardworking,False,True
+992,Paul,49,1,113109.29,2015-11-16,Needs Improvement,False,True
+993,Paul,51,0,65462.77,2016-08-28,Creative,True,False
+994,Rachel,25,0,109196.19,2017-09-14,Dedicated,True,False
+995,Linda,54,1,96299.8,2018-04-02,Creative,False,True
+996,Tom,27,1,79282.25,2018-09-29,Dedicated,True,False
+997,Paul,26,1,33355.94,2017-10-13,Creative,False,True
+998,Bob,53,0,71727.28,2019-01-14,Creative,False,True
+999,Paul,47,0,47286.63,2015-05-15,Reliable,True,False
+1000,Sara,60,0,77410.69,2023-06-08,Fast Learner,True,False
